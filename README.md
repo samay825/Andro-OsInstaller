@@ -60,6 +60,13 @@ sudo apt update && apt install python3-pip && sudo apt install git && git clone 
 ```
 Now you can launch the GUI Launcher
 
+#### For Daily-Use Command
+
+Script Installation One-Line Command
+```bash
+cd Andro-OsInstaller;python3 main.py
+```
+
 
 
 
