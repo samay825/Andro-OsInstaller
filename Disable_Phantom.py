@@ -15,7 +15,7 @@ from time import sleep
 import requests
 from colorama import Fore
 
-
+os.system('pkg install android-tools')
 
 # ------- colors
 red = Fore.RED
