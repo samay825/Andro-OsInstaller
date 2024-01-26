@@ -1,6 +1,7 @@
 # ----- Simple adb connect 
 # ----- coded by samay 
-
+# ----- Script chori krke fayda nahi tum yeh code se kuch siklo 
+# ----- dont be script kiddie just learn something from this code 
 
 import os ,sys
 import subprocess
