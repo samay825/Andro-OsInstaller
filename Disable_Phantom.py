@@ -95,6 +95,7 @@ class SamayFun:
         subprocess.run(self.command_5,env=env,shell=True)
         sleep(1)
         subprocess.run(self.command_6,env=env,shell=True)
+        cleanscreen()
         print('Phantom Process Disabled Successfully !!')
 
 
